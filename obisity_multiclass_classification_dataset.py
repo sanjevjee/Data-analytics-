@@ -1,4 +1,3 @@
-
 **Data Description**
 
 ID: Unique identifier for each individual.
